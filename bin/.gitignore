@@ -1,0 +1,7 @@
+.idea/
+target/
+.settings/
+.classpath
+.project
+pom.xml
+src/main/resources/application.properties
